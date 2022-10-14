@@ -1,0 +1,2 @@
+# spkg
+a standard pkg.
